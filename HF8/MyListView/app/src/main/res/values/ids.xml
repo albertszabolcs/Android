@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="currency_list" type="id" />
+    <item name="selectedopt" type="id" />
+    <item name="currency_details" type="id" />
+</resources>
